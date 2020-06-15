@@ -1,5 +1,4 @@
-# indianic_assignment
-Indianic Invoice Assignment Microservice
+Invoice Microservice Application
 
 Save Invoice API
 
